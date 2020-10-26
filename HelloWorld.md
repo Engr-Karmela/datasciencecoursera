@@ -2,9 +2,7 @@
 title: "HelloWorld.md"
 author: "Engr-Karmela"
 date: "10/26/2020"
-output:
-  html_document:
-    df_print: paged
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
